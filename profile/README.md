@@ -11,7 +11,7 @@ hit so your users do not, and every impact is on film.
 
 - Main repository: [dummy-run/dummy-run](https://github.com/dummy-run/dummy-run)
 - Status: pre-release, being extracted from a private deployment with a clean history
-- Licence: Apache 2.0
+- Licence: to be decided
 - Contact: open a discussion in the main repository, or use private vulnerability reporting for security matters
 
-Open source, and intended to stay that way.
+Intended to be open source; the licence is being chosen.
